@@ -1,4 +1,4 @@
-**# AstroPi-frequencies_project
+# AstroPi-frequencies_project
 
 ## Descrizione
 
