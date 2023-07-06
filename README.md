@@ -1,5 +1,4 @@
 **# AstroPi-frequencies_project
-**# Progetto AstroPi - Analisi delle Variazioni di Accelerazione
 
 ## Descrizione
 
