@@ -1,1 +1,1 @@
-# AstroPi
+# AstroPi-frequencies_project
